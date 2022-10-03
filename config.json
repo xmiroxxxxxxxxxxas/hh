@@ -2,7 +2,7 @@
     "autosave": true,
     "cpu": true,
     "opencl": false,
-    "cuda": true,
+    "cuda": false,
     "pools": [
         {
             "coin": "monero",
